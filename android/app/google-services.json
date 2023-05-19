@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247384073242",
+    "project_id": "notescholar-final",
+    "storage_bucket": "notescholar-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247384073242:android:8a59be5882b7a4e7c1dda3",
+        "android_client_info": {
+          "package_name": "com.example.note_easy_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247384073242-heprgvdqsecvparl9nq2s5q0roh2spin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6n-_crWvW8i0gpFm2gU8KF16Nc13vgHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247384073242-heprgvdqsecvparl9nq2s5q0roh2spin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
